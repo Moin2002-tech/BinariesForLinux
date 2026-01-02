@@ -1,6 +1,6 @@
 # BinariesForLinux
 
-
+# Tensorflow 2.16 CUDA supported Architecture 7.5
 Requirement: it is installed nvidia t600 GPU Turing Architecture 7.5, CUDA 12 and CUDNN 9 
 linux Ubuntu
 
